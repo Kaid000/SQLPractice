@@ -1,0 +1,1 @@
+Select name, salary from Employees;
